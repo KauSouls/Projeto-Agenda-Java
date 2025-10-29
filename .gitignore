@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# SQLite database (opcional)
+*.db
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# System
+.DS_Store
+Thumbs.db
